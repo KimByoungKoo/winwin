@@ -20,21 +20,18 @@
  - 팀원7 : 원창식 - 문의사항(CRUD)
 
 ### ⚙️ 개발 환경
-- `Java 8`
-- `JDK 1.8.0`
-- **IDE** : STS 3.9
-- **Framework** : Springboot(2.x)
+- `Java 1`
+- `JDK 1.11.0`
+- **IDE** : Intellij
+- - **Framework** : Springboot(2.x)
 - **Database** : Oracle DB(11xe)
 - **ORM** : Mybatis
 
-## 📌 주요 기능
-#### 로그인 - <a href="" >상세보기 - WIKI 이동</a>
-- DB값 검증
-- ID찾기, PW찾기
-- 로그인 시 쿠키(Cookie) 및 세션(Session) 생성
-#### 회원가입 - <a href="" >상세보기 - WIKI 이동</a>
-- 주소 API 연동
-- ID 중복 체크
+## 📌 내가 구현한 주요 기능
+#### 나눔 - <a href="" >상세보기 - WIKI 이동</a>
+- 글 작성, 읽기, 수정, 삭제(CRUD), 신고, 조회수
+#### 진로정보 - <a href="" >상세보기 - WIKI 이동</a>
+- 글 작성, 읽기, 수정, 삭제(CRUD), 신고, 조회수
+- 좋아요(스크랩), 댓글(CRUD)
 #### 마이 페이지 - <a href="" >상세보기 - WIKI 이동</a>
-- 주소 API 연동
-- 회원정보 변경
+
