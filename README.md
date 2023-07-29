@@ -7,7 +7,7 @@
 <br>
 
 ## 🕰️ 개발 기간
-* 22.04.26일 - 23.07.24일
+* 22.04.26 - 23.07.24
 
 ### 🧑‍🤝‍🧑 맴버구성
  - 팀장  : 정소이 - 로그인, 회원가입, 메인(쪽지 포함)
@@ -20,12 +20,14 @@
  - 팀원7 : 원창식 - 문의사항(CRUD)
 
 ### ⚙️ 개발 환경
-- `Java 1`
+- Front-End : HTML, CSS, JavaScript
+- Back-End : Java11
 - `JDK 1.11.0`
 - **IDE** : Intellij
-- - **Framework** : Springboot(2.x)
+- **Framework** : Springboot(2.x), thymeleaf, Ajax
 - **Database** : Oracle DB(11xe)
 - **ORM** : Mybatis
+- **Devops**: GitHub
 
 ## 📌 내가 구현한 주요 기능
 #### 나눔 - <a href="https://github.com/KimByoungKoo/winwin/wiki/%EB%82%B4%EA%B0%80-%EA%B5%AC%ED%98%84%ED%95%9C-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%82%98%EB%88%94-%ED%8E%98%EC%9D%B4%EC%A7%80)" >상세보기 - WIKI 이동</a>
