@@ -35,6 +35,6 @@
 #### 진로정보 - <a href="https://github.com/KimByoungKoo/winwin/wiki/%EB%82%B4%EA%B0%80-%EA%B5%AC%ED%98%84%ED%95%9C-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%A7%84%EB%A1%9C%EC%A0%95%EB%B3%B4)" >상세보기 - WIKI 이동</a>
 - 글 작성, 읽기, 수정, 삭제(CRUD), 신고, 조회수
 - 좋아요(스크랩), 댓글(CRUD)
-#### 마이 페이지(진로정보) - <a href="" >상세보기 - WIKI 이동</a>
+#### 마이 페이지(진로정보) - <a href="https://github.com/KimByoungKoo/winwin/wiki/%EB%82%B4%EA%B0%80-%EA%B5%AC%ED%98%84%ED%95%9C-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80%E2%80%90%EC%A7%84%EB%A1%9C%EC%A0%95%EB%B3%B4)" >상세보기 - WIKI 이동</a>
 - 좋아요(스크랩)한 게시글 및 내가 작성한 글 조회
 
