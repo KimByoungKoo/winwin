@@ -24,9 +24,8 @@
 - Back-End : Java11
 - `JDK 1.11.0`
 - **IDE** : Intellij
-- **Framework** : Springboot(2.x), thymeleaf, Ajax
+- **Framework** : Mybatis, Springboot(2.x), thymeleaf, Ajax
 - **Database** : Oracle DB(11xe)
-- **ORM** : Mybatis
 - **Devops**: GitHub
 
 ## 📌 내가 구현한 주요 기능
